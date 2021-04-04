@@ -9,3 +9,5 @@ Demo IoT scripts with node.js.
 ## Contents
 
 * `led.js` Experiment 1: [Blink an LED](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-johnny-five-inventors-kit/experiment-1-blink-an-led)
+
+* `sensor-basic.js` Experiment 3: [Reading a Potentiometer](https://learn.sparkfun.com/tutorials/experiment-guide-for-the-johnny-five-inventors-kit/experiment-3-reading-a-potentiometer)
